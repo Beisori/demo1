@@ -1,14 +1,7 @@
-<!DOCSTYPE html>
-<html>
-   <head>
-    <link rel="stylesheet" href="styles.css">
-    <title>Värejä</title>
-    <meta charset="utf-8" />    
-   </head>
-  <body>
-   <H1>Otsikko</H1>
+H1 {
+	font-size: 20px;
+}
 
-   <p>Tekstiä</p>
-
-  </body>
-</html>
+P { 
+	font-size:12px;
+	color: green;
